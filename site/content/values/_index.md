@@ -2,6 +2,12 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
+  - heading: "A new section I created"
+    text: >
+      This is the new lorem ipsum. The
+      forest-like structure of shade coffee farms provides habitat for
+      a great number of migratory and resident species.
+    imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Shade-grown coffee"
     text: >
       Coffee is a small tree or shrub that grows in the forest
